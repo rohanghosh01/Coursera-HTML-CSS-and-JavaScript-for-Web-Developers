@@ -2,7 +2,7 @@
 
 This repository contains all of the source code used in the course called HTML, CSS and Javascript for Web Developers in Coursera.
 
-![Course Completion certificate](C:\Users\local user\Desktop\coursera Files\Coursera-HTML-CSS-and-JavaScript-for-Web-Developers\Coursera-WebDev-Certificate.jpg)
+![Course Completion certificate]("C:\Users\local user\Desktop\coursera Files\Coursera-HTML-CSS-and-JavaScript-for-Web-Developers\Coursera-WebDev-Certificate.jpg")
 
 
 # Assignments :
